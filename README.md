@@ -61,7 +61,7 @@ Deep dive into gender distribution patterns across school types.
 ### **Page 3: Trends & Summary**
 Comprehensive year-over-year analysis and strategic recommendations for education stakeholders.
 
-![Trends & Summary Page](Images/trends_summary.png)
+![Trends & Summary Page](Images/trends&summary.png)
 
 **Features:**
 - **KPI Cards (Top):**
